@@ -3,7 +3,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=omarmattr) 
 
 <br>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmattr&layout=compact&theme=radical)
+
+
 <br>
 <!--
 Here are some ideas to get you started:
