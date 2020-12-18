@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
-**omarmattr/omarmattr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=omarmattr) 
 
+<br>
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
