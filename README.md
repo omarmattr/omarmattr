@@ -6,7 +6,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmattr&layout=compact&theme=radical)
 
-<img src="https://profile-counter.glitch.me/Nurbk229/count.svg" />
+<img src="https://profile-counter.glitch.me/omarmattr/count.svg" />
 <br>
 <!--
 Here are some ideas to get you started:
